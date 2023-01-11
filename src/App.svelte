@@ -9,7 +9,7 @@ var btn = document.getElementById("myBtn");
 </script>
   
 <main class="fullscreen">
-  <h1 style="font-family:Centaur"><h1 style="font-size:50px">CHILL-FLIX</h1></h1>
+  <h1 style="font-family:Centaur"><h1 style="font-size:50px">CHILLFLIX</h1></h1>
   <Header/>
   <video autoplay muted loop id="myVideo">
     <source src="https://assets.codepen.io/6093409/river.mp4" type="video/mp4">
