@@ -3,7 +3,7 @@
 </script>
 
 <main>
-    <div class="menuribbon.css">
+    <div class="menuribbon">
         <button class="menubutton">Home</button>
         <select class="dropdownbutton">
           <option>Category</option>
@@ -13,7 +13,8 @@
         </select>
         <!-- <th>Movies</th> -->
         <button class="menubutton">Mylist</button>
-        </div>
+    </div>
+
 </main>
 
 <style>
